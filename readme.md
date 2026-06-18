@@ -78,7 +78,7 @@ No external database server is required because SQLite is used.
 Clone the repository:
 
 ```bash
-[git clone https://github.com/your-username/rsa-chat-system.git](https://github.com/dev-talha/ras-algorithm.git)
+https://github.com/dev-talha/ras-algorithm.git
 ```
 
 Or download the ZIP file and extract it.
